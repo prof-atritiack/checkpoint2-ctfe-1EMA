@@ -22,7 +22,8 @@ Desenvolver a capacidade de resolver problemas utilizando conceitos de lógica e
 **Contexto:**
 Uma empresa especializada em elevadores industriais deseja implementar um sistema para calcular a carga total suportada por um conjunto de elevadores em um edifício de múltiplos setores. Cada elevador possui um sistema de verificação de carga que considera um padrão oscilante em cada andar. A carga suportada por cada elevador no andar `i` é calculada por:
 
-\[ S = \sum_{i=1}^{N} \frac{i^2}{i + 1} \]
+![image](https://github.com/user-attachments/assets/01c04d51-01cd-4cc3-8367-7aa9fd7f9d49)
+
 
 **Problema:**
 Desenvolva um programa em Python que recebe um número inteiro `N` representando a quantidade de setores (elevadores) e calcula a carga total suportada por todos os elevadores, utilizando a fórmula acima.
