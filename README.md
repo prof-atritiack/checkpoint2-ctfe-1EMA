@@ -1,8 +1,5 @@
 ### Checkpoint 02: Computational Thinking For Engineering
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/Checkpoint_02_Computational_Thinking_.ipynb)
-
-
 **Objetivo:** Desenvolver a capacidade de resolver problemas utilizando conceitos de lógica e aritmética em Python, sem o uso de bibliotecas, listas ou dicionários. Os problemas estão organizados em nível intermediário/avançado e visam estimular o raciocínio lógico e a habilidade de manipulação de variáveis, operadores e estruturas condicionais.
 
 **Instruções:**
@@ -32,14 +29,6 @@ Desenvolva um programa em Python que recebe um número inteiro `N` representando
 
 **Saída:**
 - A soma da carga total suportada com duas casas decimais, apresentada de forma formatada: `A carga total suportada é: 5.47`
-
-**Exemplo de Entrada:**
-```
-5
-```
-**Exemplo de Saída:**
-```
-A carga total suportada é: 5.47
 ```
 
 ---
@@ -59,14 +48,6 @@ Crie um programa em Python que receba um código numérico do cabo e um número 
 **Saída:**
 - A saída deve ser apresentada de forma formatada: `O resultado para o cabo X no andar A é PRIMO/NÃO PRIMO.`
 
-**Exemplo de Entrada:**
-```
-123
-5
-```
-**Exemplo de Saída:**
-```
-O resultado para o cabo 123 no andar 5 é PRIMO.
 ```
 
 ---
@@ -84,15 +65,6 @@ Implemente um programa em Python que receba um código numérico e calcule a som
 
 **Saída:**
 - A saída deve ser apresentada de forma formatada: `O elevador N está em estado: Alerta/Normal.`
-
-**Exemplo de Entrada:**
-```
-123
-```
-**Exemplo de Saída:**
-```
-O elevador 123 está em estado: Alerta.
-```
 
 ---
 
