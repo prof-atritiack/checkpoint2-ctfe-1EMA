@@ -1,8 +1,11 @@
 ### Checkpoint 02: Computational Thinking For Engineering
 
-**Objetivo:** Desenvolver a capacidade de resolver problemas utilizando conceitos de lógica e aritmética em Python, sem o uso de bibliotecas, listas ou dicionários. Os problemas estão organizados em nível intermediário/avançado e visam estimular o raciocínio lógico e a habilidade de manipulação de variáveis, operadores e estruturas condicionais.
+**Objetivo:**
+Desenvolver a capacidade de resolver problemas utilizando conceitos de lógica e aritmética em Python, sem o uso de bibliotecas, listas ou dicionários. Os problemas estão organizados em nível intermediário/avançado e visam estimular o raciocínio lógico e a habilidade de manipulação de variáveis, operadores e estruturas condicionais.
 
-**Instruções:**
+---
+
+### Instruções:
 - O código base (`.ipynb`) para a entrega já está disponível no repositório. Utilize-o para organizar as respostas de todas as questões.
 - O trabalho pode ser realizado individualmente ou em grupos de até 3 integrantes.
 - Não utilize bibliotecas externas.
@@ -19,7 +22,7 @@
 **Contexto:**
 Uma empresa especializada em elevadores industriais deseja implementar um sistema para calcular a carga total suportada por um conjunto de elevadores em um edifício de múltiplos setores. Cada elevador possui um sistema de verificação de carga que considera um padrão oscilante em cada andar. A carga suportada por cada elevador no andar `i` é calculada por:
 
-S = Σ ((i^2) / (i + 1)) para i de 1 até N
+\[ S = \sum_{i=1}^{N} \frac{i^2}{i + 1} \]
 
 **Problema:**
 Desenvolva um programa em Python que recebe um número inteiro `N` representando a quantidade de setores (elevadores) e calcula a carga total suportada por todos os elevadores, utilizando a fórmula acima.
@@ -29,7 +32,6 @@ Desenvolva um programa em Python que recebe um número inteiro `N` representando
 
 **Saída:**
 - A soma da carga total suportada com duas casas decimais, apresentada de forma formatada: `A carga total suportada é: 5.47`
-```
 
 ---
 
@@ -47,8 +49,6 @@ Crie um programa em Python que receba um código numérico do cabo e um número 
 
 **Saída:**
 - A saída deve ser apresentada de forma formatada: `O resultado para o cabo X no andar A é PRIMO/NÃO PRIMO.`
-
-```
 
 ---
 
@@ -74,5 +74,3 @@ Implemente um programa em Python que receba um código numérico e calcule a som
 - Formatação e clareza do código.
 - Uso adequado de comentários para explicar a lógica dos programas.
 - Organização do código, padronização das saídas e utilização de strings formatadas.
-
----
