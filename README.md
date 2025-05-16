@@ -1,9 +1,13 @@
 ### Checkpoint 02: Computational Thinking For Engineering
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repo/blob/main/Checkpoint_02_Computational_Thinking_Advanced.ipynb)
+
+
 **Objetivo:** Desenvolver a capacidade de resolver problemas utilizando conceitos de lógica e aritmética em Python, sem o uso de bibliotecas, listas ou dicionários. Os problemas estão organizados em nível intermediário/avançado e visam estimular o raciocínio lógico e a habilidade de manipulação de variáveis, operadores e estruturas condicionais.
 
 **Instruções:**
-- O trabalho pode ser realizado individualmente ou em grupos de até 5 integrantes.
+- O código base (`.ipynb`) para a entrega já está disponível no repositório. Utilize-o para organizar as respostas de todas as questões.
+- O trabalho pode ser realizado individualmente ou em grupos de até 3 integrantes.
 - Não utilize bibliotecas externas.
 - Não utilize listas ou dicionários.
 - Os códigos devem estar devidamente comentados e organizados.
